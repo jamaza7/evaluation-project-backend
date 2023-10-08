@@ -35,4 +35,25 @@ El proyecto utiliza las siguientes tecnologías y herramientas:
 
 ## Instalación
 
-Para instalar el proyecto
+> **Nota:** Para ejecutar este proyecto debera tener instalado nodejs en la version **LTS** o posteriores
+
+Clone el repositorio desde Github
+
+```bash
+    git clone https://github.com/jamaza7/evaluation-project-backend.git
+    cd evaluation-project-backend
+```
+
+Al estar dentro del directorio indicado ejecute el siguiente comando para instalar dependecias
+
+```javascript
+    npm install
+```
+
+## Configuracion
+
+Para iniciar la api simulada debemos navegar inicar el servidor con el comando
+
+```bash
+    npm start
+```
