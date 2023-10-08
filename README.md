@@ -4,7 +4,9 @@ Este proyecto es una implementación de una API simulada utilizando [JSON Server
 
 ### Objetivo
 
-El objetivo principal de este proyecto es mostrar mi capacidad para crear y utilizar una API simulada en una aplicación web utilizando JSON Server. Este proyecto se ha desarrollado como parte de una evaluación y demuestra mis habilidades en las siguientes áreas: - Creación y configuración de una API RESTful simulada
+El objetivo principal de este proyecto es mostrar mi capacidad para crear y utilizar una API simulada en una aplicación web utilizando JSON Server. Este proyecto se ha desarrollado como parte de una evaluación y demuestra mis habilidades en las siguientes áreas:
+
+- Creación y configuración de una API RESTful simulada
 
 ## Author
 
