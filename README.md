@@ -27,9 +27,7 @@ El proyecto utiliza las siguientes tecnologías y herramientas:
 ## Tabla de Contenidos
 
 - [Instalación](#instalación)
-- [Configuracion](#configuración)
-  - [Ejemplos](#ejemplos)
-- [Capturas](#capturas)
+- [Configuracion](#configuracion)
 - [Créditos](#créditos)
 - [Licencia](#licencia)
 
@@ -52,8 +50,25 @@ Al estar dentro del directorio indicado ejecute el siguiente comando para instal
 
 ## Configuracion
 
-Para iniciar la api simulada debemos navegar inicar el servidor con el comando
+Para iniciar la api simulada debemos inicar el servidor con el comando
 
-```bash
+```javascript
     npm start
 ```
+
+Luego de eso debera iniciar el frontend con la extención **[live server](https://github.com/ritwickdey/vscode-live-server)**, dirigase a su `index.html` y vera en su parte inferior un icono en el cual debera dar click
+
+![liveServer](Screenshot/demo_liveserver.png)
+
+Al abrir **live-server** obtendra en la pantalla de su navegador la aplicacion lista
+
+![index](Screenshot/index_liveServer.png)
+
+## Créditos
+
+Agradecimientos al **Mgs. Patricio Vaca Esbocar** por
+su orientación y apoyo valioso durante este perido academico 💯.
+
+## Licencia
+
+[MIT](https://choosealicense.com/licenses/mit/)
